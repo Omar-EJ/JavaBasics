@@ -19,6 +19,7 @@ public class Anagrams {
                 return false;
             }
         }
+
         return true;
     }
 
@@ -33,4 +34,8 @@ public class Anagrams {
             System.out.println("Not Anagrams");
         }
     }
+    public int m(){
+        return 1;
+    }
+
 }
